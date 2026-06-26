@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\lz4.obj",
+            "outputs": [
+                "x64\\Debug\\lz4.h_59DA11ADB80C5780.ifc.dt.module.json",
+                "x64\\Debug\\lz4.h_59DA11ADB80C5780.ifc.dt.d.json",
+                "x64\\Debug\\lz4.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Tolik\\Desktop\\yougey-main\\yougey\\src\\utils\\lz4.h",
+                    "source-path": "c:\\users\\tolik\\desktop\\yougey-main\\yougey\\src\\utils\\lz4.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
